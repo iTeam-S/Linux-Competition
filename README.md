@@ -1,7 +1,7 @@
 # Linux-Competition
 Un projet pour amuser un peu la communauté.
 
-`Tous les etapes ne sont pas encore faites par faute de manque de temps.`
+`Tous les etapes ne sont pas encore faites par manque de temps.`
 
 ### Etape 1: Qui suis-je ? 
 
